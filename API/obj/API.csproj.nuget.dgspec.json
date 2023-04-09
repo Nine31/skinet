@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alved\\source\\repos\\skinet\\Api\\API.csproj": {}
+    "C:\\Users\\alved\\source\\repos\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alved\\source\\repos\\skinet\\Api\\API.csproj": {
+    "C:\\Users\\alved\\source\\repos\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alved\\source\\repos\\skinet\\Api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\alved\\source\\repos\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\alved\\source\\repos\\skinet\\Api\\API.csproj",
+        "projectPath": "C:\\Users\\alved\\source\\repos\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\alved\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alved\\source\\repos\\skinet\\Api\\obj\\",
+        "outputPath": "C:\\Users\\alved\\source\\repos\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
