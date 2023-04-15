@@ -84,3 +84,5 @@ C:\Users\alved\source\repos\skinet\API\bin\Debug\net7.0\Core.pdb
 C:\Users\alved\source\repos\skinet\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\alved\source\repos\skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\alved\source\repos\skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\alved\source\repos\skinet\API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\alved\source\repos\skinet\API\bin\Debug\net7.0\StackExchange.Redis.dll
